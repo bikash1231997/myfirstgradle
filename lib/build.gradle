@@ -1,0 +1,8 @@
+apply plugin: 'java'
+
+/*plugins {
+	id 'application'
+}
+application{
+	// mainclass= 'com.lib.mainclass'
+}*/

@@ -9,3 +9,5 @@ gradle-app.setting
 /.settings
 gradlew
 gradle.bat
+!build.gradle
+!settings.gradle

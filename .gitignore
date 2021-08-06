@@ -1,0 +1,11 @@
+bin/
+/build/
+gradle/
+*.log
+*.class
+*.jar
+gradle-app.setting
+.gradletasknamecache
+/.settings
+gradlew
+gradle.bat
